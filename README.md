@@ -27,7 +27,7 @@ The dashboard helps brands and marketers identify high-impact influencers and un
 
 ## 🌍 Live Interactive Dashboard
 👉 **View on Tableau Public:**  
-[Click here to view the dashboard](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+[Click here to view the dashboard](https://public.tableau.com/app/profile/jayabharathi.s2826/viz/InstagramInfluencersBusinessAnalyticsDashboard/Dashboard1)
 
 ---
 
